@@ -1,0 +1,13 @@
+.underline{
+  width: 120px;
+  height: 6px;
+  background-color: aqua;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+    font-family: 'Sarabun', sans-serif;
+}
+
+.nav-link,nav-item{
+    font-family: 'Sarabun', sans-serif;
+}

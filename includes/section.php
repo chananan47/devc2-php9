@@ -1,0 +1,28 @@
+<div class="container shadow-lg mb-3 mt-3 p-2 rounded">
+    <div class="row">
+        <div class="col-mf-12">
+            <h2 class="text-center"><span class="text-primary">บริการชุมชน</span> ของเรา</h2>
+            <div class="underline mx-auto"></div>
+            <p class = "text-center fs-4">ข่าวอาชีวศึกษา</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4 shadow" style = "width:25 rem;">
+            <div class="card">
+                <img src="images/servies/" alt="img">
+                <div class="card-body">
+                    <h5 class="card-title">ส่งเสริมสนับสนุนพัฒนา</h5>
+                    <div class="underline"></div>
+                    <p class="card-text">
+                    ศูนย์บ่มเพาะวิสาหกิจเพื่อการศึกษาหมายถึงหน่วยงานที่สำนักคณะกรรมการการอาชีวศึกษา
+                    จัดตั้งขึ้นในทุกๆสถานศึกษาในสังกัดโดยมีวัตถุประสงค์เพื่อส่งเสริมสนับสนุนและพัฒนาขีด 
+                    ความสามารถของนักเรียนนักศึกษาประชาชนทั่วไปที่สนใจให้สามารถนำความรู้ 
+                    ทักษะวิชาชีพ เพื่อสร้างเสริมประสบการณ์เชิงพาณิชย์ให้มีความพร้อมที่จะเริ่มประกอบธุระกิจของตนเอง 
+                    หรือพัฒนาต่อยอดธุระกิจได้อย่างมั่นคงและยั่งยืน
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
