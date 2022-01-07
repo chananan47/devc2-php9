@@ -1,12 +1,9 @@
+<?php include("includes/header.php"); ?>
+<?php include("includes/navbar.php"); ?>
+<?php include("includes/headertop.php") ?>
 
-<?php include("include/header.php"); ?>
+<?php include("includes/slider.php"); ?>
 
-<?php include("include/navbar.php"); ?>
+<?php include("includes/section.php"); ?>
 
-<?php include("include/headertop.php"); ?>
-
-<?php include("include/slider.php"); ?>
-
-<?php include("include/section.php"); ?>
-
-<?php include("include/footer.php"); ?>
+<?php include("includes/footer.php"); ?>

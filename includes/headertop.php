@@ -1,8 +1,9 @@
 <div class="container shadow-lg my-3 p-2 rounded">
     <div class="row">
+        
         <div class="col-md-1">
             <div style = "width: 7rem;">
-            <imag src = "images/services/ " class = "card-img-top" alt= "image">    
+            <imag src = "images/services/service1.jpg " class = "card-img-top" alt= "image">    
             </div>
         </div>
             
