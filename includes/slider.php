@@ -51,7 +51,7 @@
     <div class="row pt-3">
         <div class="col-md-12">
             <div class="card-text text-center">
-                <h3><span class = "text-หีแแำหห"> " เทคนิคโฉมใหม่ ใส่ใจบุตรหลาน จัดการศึกษา เพื่อการมีงานทำ</span></h3>
+                <h3><span class = "text-succes"> " เทคนิคโฉมใหม่ ใส่ใจบุตรหลาน จัดการศึกษา เพื่อการมีงานทำ"</span></h3>
             </div>
         </div>
     </div>

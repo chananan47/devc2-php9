@@ -11,7 +11,7 @@
 
         <div class="col-md-4">
         <div class="card shadow" style = "width:25 rem;">
-           <img src="images/servies/services1.jpg" height="350px" class = "card-img-top" alt="img">
+           <img src = "images/services/services1.png" height="350px" class = "card-img-top" alt="img">
                 <div class="card-body">
                     <h5 class="card-title">ส่งเสริมสนับสนุนพัฒนา</h5>
                     <div class="underline"></div>
@@ -29,7 +29,7 @@
 
         <div class="col-md-4">
         <div class="card shadow" style = "width:25 rem;">
-           <img src="images/servies/services2.jpg" height="350px" class = "card-img-top" alt="img">
+           <img src="images/services/services2.png" height="350px" class = "card-img-top" alt="img">
                 <div class="card-body">
                     <h5 class="card-title">ส่งเสริมสนับสนุนพัฒนา</h5>
                     <div class="underline"></div>
@@ -47,7 +47,7 @@
 
         <div class="col-md-4">
         <div class="card shadow" style = "width:25 rem;">
-           <img src="images/servies/services3.jpg" height="350px" class = "card-img-top" alt="img">
+           <img src="images/services/services3.png" height="350px" class = "card-img-top" alt="img">
                 <div class="card-body">
                     <h5 class="card-title">ส่งเสริมสนับสนุนพัฒนา</h5>
                     <div class="underline"></div>

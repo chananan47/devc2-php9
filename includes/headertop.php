@@ -2,8 +2,8 @@
     <div class="row">
         
         <div class="col-md-1">
-            <div style = "width: 7rem;">
-            <imag src = "images/services/service1.jpg " class = "card-img-top" alt= "image">    
+            <div style = "width: 6rem;">
+                <img src = "images/services/services5.png " class="card-img-top" alt= "image">    
             </div>
         </div>
             
@@ -11,7 +11,7 @@
             <div style = "width: 15rem;">
             <h4 class = "ml-auto mt-4">วิทยาลัยเทคนิคตราด</h4>
             <div class ="underline"> </div>
-            <h4 class = "ml-auto mt-4">Trat Technical Collage</h4>
+            <h4 class = "ml-auto ">Trat Technical Collage</h4>
 
             </div>
         </div>
