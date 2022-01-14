@@ -5,7 +5,8 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-dark text-white">
     <div class="container-fluid p-4">
         <div class="mx-auto">
-            Copyright & copy; 2020-2021 chananan | All right reserved
+            Copyright & copy; 2020-2021 <a href="admin/index.html">chananan</a> | All right reserved
+            
         </div>
     </div>
 </nav>
